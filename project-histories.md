@@ -25,5 +25,14 @@ Collectively these ensure shared understanding among cross-functional teams, and
 4. Session 2 agenda: confirm or revise the voted priorities for top 3 events. Familiarize team with [fishbone analysis](https://asq.org/quality-resources/fishbone) process to identify multiple root causes. Explore 3-levels of causation for first event (and second, time permitting) and document causes.&#x20;
 5. Session 3 agenda: Confirm or refine the prioritization of events. Conduct fishbone analysis and finalize documented root causes. Review and recap with team.
 
+### Categories of Exploration
 
+During the root cause sessions, we explore with the team several categories of causes.
+
+* Management / project team communication
+* Function / function communication
+* Requirements (internal)
+* Environment or market (external)
+* Process
+* Technology
 
