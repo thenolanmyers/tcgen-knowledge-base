@@ -36,3 +36,8 @@ During the root cause sessions, we explore with the team several categories of c
 * Process
 * Technology
 
+### Example and Origin of "fishbone"
+
+The term "fishbone" comes from a graphical representation of the process that maps out the multiple root causes stemming from different [categories of exploration](project-histories.md#categories-of-exploration). While the name comes from this graphical model, for active note taking we use a spreadsheet with columns for each level of branching.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Fishbone diagram, from <a href="https://asq.org/quality-resources/fishbone">https://asq.org/quality-resources/fishbone</a></p></figcaption></figure>
