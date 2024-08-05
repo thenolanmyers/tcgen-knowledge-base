@@ -4,18 +4,18 @@ TCGen is a tech-enabled change management methodology to improve your product de
 
 We will leverage a public handbook, a la [GitLab](https://handbook.gitlab.com), that allows us to create living documentation that is ever growing and allows us to collaborate efficiently and share knowledge with our clients.
 
-### Handbook-First
+## Handbook-First
 
 We strive to be "handbook-first" in our approach to serving clients. By writing our thoughts, we increase the amount that can be tackled asynchronously, and promote consistency of interpretation across teams within a client. It also allows us to build upon our knowledge over time, refining and building with each implementation.
 
-#### Handbook-first usage
+### Handbook-first usage
 
 To be "handbook-first" we employ the following practices.
 
 1. Write it first. Document the proposed methodology so that others can understand specifically what you mean.&#x20;
 2. Share links. Send links to documentation rather than emails or presentations. People can get the main point effectively, and have richer context if they want to explore more.
 
-#### Benefits of handbook-first
+### Benefits of handbook-first
 
 Writing knowledge to the handbook first has these benefits:
 
@@ -24,7 +24,7 @@ Writing knowledge to the handbook first has these benefits:
 * Improve incrementally
 * Share in context
 
-#### Concerns with our handbook approach
+### Concerns with our handbook approach
 
 Our handbook-methodologies were formed in a product company where compounding results were important. In the TCGen context, some things we have yet to prove out:
 
